@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_01ess
 title: 後ろ姿の写真
 ---
 
