@@ -1,5 +1,5 @@
 ---
-layout: default_01ess
+layout: essay
 title: 後ろ姿の写真
 ---
 
